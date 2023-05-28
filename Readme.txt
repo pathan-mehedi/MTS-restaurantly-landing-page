@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
 Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://mts-restaurent-landing-page.netlify.app/
+Author: moonjutech.com
